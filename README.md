@@ -1,4 +1,3 @@
-# python
 # -*- coding: utf-8 -*-
 def extract_band(working_directory, hdf_file, output_directory, band):
     '''
